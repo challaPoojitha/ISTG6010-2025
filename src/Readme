@@ -1,0 +1,30 @@
+# ISTG6010-2025 Project
+
+## Overview
+This project is part of the ISTG6010 course for the year 2025. It is designed to demonstrate key concepts and skills in software development, including coding, testing, and deployment.
+
+## Features
+- Implementation of core functionalities as per course requirements.
+- Modular and maintainable code structure.
+- Comprehensive documentation and testing.
+
+## Prerequisites
+- Python 3.x or any other specified programming language.
+- Required libraries and dependencies (to be listed in `requirements.txt`).
+
+## Installation
+1. Clone the repository:
+    ```
+    git clone https://github.com/your-username/ISTG6010-2025.git
+    ```
+2. Navigate to the project directory:
+    ```
+    cd ISTG6010-2025
+    ```
+3. Install dependencies:
+    ```
+    pip install -r requirements.txt
+    ```
+
+## Usage
+Run the main script to execute the project:
